@@ -6,5 +6,3 @@ Hello :wave: Welcome to my GitHub Profile.
 
 **Tech**: Azure DevOps, Azure Pipelines, Azure Boards, Azure Test Plans, Azure Artifacts, PowerShell, .NET, MSBuild, Visual Studio, Azure, AWS, NuGet, Octopus Deploy, Terraform, GitHub Actions, IIS, SQL Server, SonarQube
 
-# Who is Marcus?
-![](AboutMarcus.png "About Marcus")
